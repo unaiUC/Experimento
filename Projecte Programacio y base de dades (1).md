@@ -1,48 +1,19 @@
 ﻿<style>
-/* Estilos de texto */
-body {
-    font-family: Arial, sans-serif;
+.heading1 {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
 }
-
-h1 {
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: 10px;
-}
-
-h2 {
-    font-size: 20px;
-    font-weight: bold;
-    margin-top: 20px;
-}
-
-p {
-    font-size: 16px;
-    margin-bottom: 10px;
-}
-
-/* Estilos de bordes */
-.container {
-    border: 2px solid #c0c0c0;
-    border-radius: 5px;
-    padding: 10px;
-}
-
-/* Estilos de imagen */
-.logo {
-    width: 100px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+.heading2 {
+    color: blue;
+    font-weight:700;
+    font-size: 30px;
 }
 </style>
 
-<div class="container">
-    <h1>PROJECTE PROGRAMACIO Y BASE DE DADES</h1>
-    <h2>Projecte Intermodular</h2>
-    <p>3 DE ABRIL DE 2024</p>
-    <p>UNAI CONUS, VICTOR REDEL, MANUEL ANTONIO, ALEX MARTINEZ</p>
-    <p>Institut Sa Palomera</p>
-    <img class="logo" src="logo.png" alt="Logo">
-</div>
+<h1 id="identifier" class="heading1">
+    Markdown h1 styles
+</h1>
+<h2 id="identifier" class="heading2">
+    Markdown h2 styles
+</h2>
