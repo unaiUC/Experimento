@@ -1,0 +1,15 @@
+﻿![](Aspose.Words.9ea0e21e-66b4-429b-9646-84267e6197c0.001.png)
+
+PROJECTE PROGRAMACIO Y BASE DE DADES
+
+Projecte Intermodular
+
+![](Aspose.Words.9ea0e21e-66b4-429b-9646-84267e6197c0.002.png)
+
+3 DE ABRIL DE 2024
+
+UNAI CONUS, VICTOR REDEL, MANUEL ANTONIO, ALEX MARTINEZ
+
+Institut Sa Palomera
+
+![](Aspose.Words.9ea0e21e-66b4-429b-9646-84267e6197c0.003.png)
