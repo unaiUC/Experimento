@@ -1,15 +1,48 @@
-﻿![](Aspose.Words.9ea0e21e-66b4-429b-9646-84267e6197c0.001.png)
+﻿<style>
+/* Estilos de texto */
+body {
+    font-family: Arial, sans-serif;
+}
 
-PROJECTE PROGRAMACIO Y BASE DE DADES
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+}
 
-Projecte Intermodular
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+}
 
-![](Aspose.Words.9ea0e21e-66b4-429b-9646-84267e6197c0.002.png)
+p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
 
-3 DE ABRIL DE 2024
+/* Estilos de bordes */
+.container {
+    border: 2px solid #c0c0c0;
+    border-radius: 5px;
+    padding: 10px;
+}
 
-UNAI CONUS, VICTOR REDEL, MANUEL ANTONIO, ALEX MARTINEZ
+/* Estilos de imagen */
+.logo {
+    width: 100px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+</style>
 
-Institut Sa Palomera
-
-![](Aspose.Words.9ea0e21e-66b4-429b-9646-84267e6197c0.003.png)
+<div class="container">
+    <h1>PROJECTE PROGRAMACIO Y BASE DE DADES</h1>
+    <h2>Projecte Intermodular</h2>
+    <p>3 DE ABRIL DE 2024</p>
+    <p>UNAI CONUS, VICTOR REDEL, MANUEL ANTONIO, ALEX MARTINEZ</p>
+    <p>Institut Sa Palomera</p>
+    <img class="logo" src="logo.png" alt="Logo">
+</div>
